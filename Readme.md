@@ -1,6 +1,6 @@
-## Multi-Scale Hybrid Compensation Network
+## Hyperspectral image classification based on multi-scale information compensation
 
-## Wang, Hyperspectral Image Classifcation Based on Multi-scale Information Compensation, *Remote Sensing Letters*, 2019.
+If this repo is useful for your research, please cite:
 
 ```
 @article{wang2020hyperspectral,
